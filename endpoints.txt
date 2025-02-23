@@ -1,0 +1,15 @@
+endpoints:
+
+get / pedidos
+get / proyecto
+get / usuario
+get / transporte
+get / oficina_tecnica
+get / producto
+
+post / registrar_cliente
+post / registrar_proyecto
+post / registrar_pedido
+post / registrar_envio
+
+put / actualizar_pedido
